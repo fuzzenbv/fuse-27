@@ -1,5 +1,4 @@
-# fuse-27
-Distributed file system in userspace with object-based storage.
+# Distributed file system in userspace with object-based storage.
 
 The file system FUSE (Filesystem in Userspace) will be modified, which will be distributed in user space and whose data storage will be in one or several storage devices based on objects.
 
